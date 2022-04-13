@@ -1,7 +1,7 @@
 # Desafío: Top 100
 
 ### Módulo 5
-### Programación Avanzada en JavaScript
+### Lenguaje de Consultas a una Base de Datos PostgreSQL
 
 ## Unidad: 1 - Trabajo Práctico 2
 
